@@ -13,5 +13,9 @@
 ## Playing Screen
 ![Moving Pole](https://user-images.githubusercontent.com/72495317/197795847-3df83bfa-6539-4523-bbc7-bfc2401f9197.PNG)
 
+## Ball dribbles until spacebar pressed
+![Ball Dribble](https://user-images.githubusercontent.com/72495317/197796827-043ae65f-1d71-4f01-b143-9d0373564c64.PNG)
+
+
 ## Score Updates
 ![Score](https://user-images.githubusercontent.com/72495317/197795906-8782edf2-b249-4540-9f43-12de19661c42.PNG)
